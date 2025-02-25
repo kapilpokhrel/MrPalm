@@ -1,9 +1,10 @@
 # MrPalm
 
-![](demo.mp4)
+![](tinydemo.gif)
+
 Just something me and my friends were working on.
 
-This project is heavily inspired from [[1]](#1). All the 3d printed files are also inspired and modified for servo from the this paper. [Original Files](https://doi.org/10.17605/OSF.IO/SFPB2)
+This project is heavily inspired from [[1]](#1). All the 3d printed models are also inspired from this paper resource and modified for the servo placement.
 
 ## References
 <a id="1">[1]</a>

@@ -2,7 +2,7 @@
 
 ![](tinydemo.gif)
 
-Just something me and my friends were working on.
+Just something me and my friend were working on.
 
 This project is heavily inspired from [[1]](#1). All the 3d printed models are also inspired from this paper resource and modified for the servo placement.
 
